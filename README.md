@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Zelkiobb&fontSize=90&fontAlignY=35&desc=L'Artisanat%20Digital%20Sans%20Limite&descAlignY=60&descAlign=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Zelkiobb&fontSize=90&fontAlignY=35&desc=Ingénierie%20Logicielle%20Sur-Mesure&descAlignY=60&descAlign=60" />
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Développeur+Full-Stack+Polyglotte;Expert+en+Création+100%25+Sur-Mesure;Bots+Discord,+E-commerce,+Applications,+Scripts;La+qualité+est+un+investissement,+pas+une+dépense." alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Développeur+Full-Stack+Polyglotte;Expert+en+Création+100%25+Sur-Mesure;Solutions+Logiciels+et+Architectures+Complexes;La+qualité+est+un+investissement,+pas+une+dépense." alt="Typing SVG" />
+  </a>
 </div>
 
 <br>
@@ -14,15 +14,15 @@
 
 ---
 
-## 🌌 Mon Univers : Le Code Sans Frontière
-Je suis un développeur passionné, animé par le défi technique. **Je n'ai aucune restriction de langage.** Vous avez une idée complexe ? Je connais la technologie parfaite pour la réaliser. Je code avec le sourire, mais avec une rigueur militaire.
+## MON UNIVERS : LE CODE SANS FRONTIÈRE
+Développeur passionné par le défi technique, je n'ai aucune restriction de langage. Vous avez une idée complexe ? Je connais la technologie adaptée pour la réaliser. Je travaille avec une rigueur absolue.
 
-### 🧠 Polyvalence Absolue (Stack Technologique)
-*Un aperçu de mon arsenal technique. Si ça se code, je sais le faire.*
+### POLYVALENCE TECHNIQUE (STACK)
+*Aperçu de l'arsenal technologique utilisé pour vos projets.*
 
 <div align="center">
 
-**[ ⚙️ LOGICIEL & BACK-END ]**<br>
+**[ LOGICIEL & BACK-END ]**<br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -33,7 +33,7 @@ Je suis un développeur passionné, animé par le défi technique. **Je n'ai auc
 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
 <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
 
-<br><br>**[ 🌐 WEB & FRONT-END ]**<br>
+<br><br>**[ WEB & FRONT-END ]**<br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -42,7 +42,7 @@ Je suis un développeur passionné, animé par le défi technique. **Je n'ai auc
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
-<br><br>**[ 🗄️ BASES DE DONNÉES & HÉBERGEMENT ]**<br>
+<br><br>**[ BASES DE DONNÉES & HÉBERGEMENT ]**<br>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -54,46 +54,42 @@ Je suis un développeur passionné, animé par le défi technique. **Je n'ai auc
 
 ---
 
-## 💼 L'Excellence a un Prix (Mes Services)
+## L'EXCELLENCE A UN PRIX
 
-Je ne fais **AUCUN** bénévolat, aucune "petite modification gratuite", et je ne recycle pas de code. Si vous me contactez, c'est pour du **100% sur-mesure**, payant, et professionnel.
+Je ne fais aucun bénévolat, aucune modification gratuite, et je ne recycle pas de code. Si vous me contactez, c'est pour un service professionnel.
 
-🔥 **Ce que je crée pour vous :**
-* **🛒 Boutiques E-Commerce :** Systèmes de vente complets, paiements sécurisés, gestion de stocks.
-* **🤖 Bots Discord & Automatisation :** De la simple modération à l'économie interconnectée avec des bases de données externes.
-* **💻 Logiciels & Scripts :** Scrapers, outils internes, interfaces de gestion.
-* **📱 Applications & Web :** Interfaces fluides et architectures complexes.
+**Je peux absolument tout concevoir : ma seule limite est votre budget.**
 
-### 💰 La Règle d'Or : Le budget définit la profondeur.
-> *Un client qui investit 30€ dans un Bot Discord obtiendra un script propre, fonctionnel, mais basique. Un client qui investit 1000€ obtiendra une véritable intelligence artificielle, reliée à un Dashboard Web interactif, avec base de données cryptée et hébergement optimisé. **Vous choisissez la limite.** *
+### LA RÈGLE D'OR : LE BUDGET DÉFINIT LA PROFONDEUR
+> *Un client qui investit 30€ obtiendra un système propre et fonctionnel. Un client qui investit 1 000€ ou 30 000€ obtiendra une architecture massive, sécurisée et optimisée pour l'industrie. Vous choisissez la limite.*
 
 ---
 
-## 📈 Mon Activité en Temps Réel
+## ACTIVITÉ EN TEMPS RÉEL
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zelkiobb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zelkiobb&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zelkiobb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zelkiobb&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zelkiobb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zelkiobb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" />
 </div>
 
 ---
 
-## 📞 Lancer une Commande
+## CONTACTER POUR UNE COMMANDE
 
-Vous avez un budget et une vision ? Je suis l'architecte qu'il vous faut. Pas de temps à perdre, réservez directement un créneau pour en discuter. 
+Vous avez un budget et une vision ? Je suis l'architecte qu'il vous faut. Pas de temps à perdre, réservez directement votre créneau.
 
 <div align="center">
-  <br>
-  <a href="https://cal.com/devzelkiobb">
-    <img src="https://img.shields.io/badge/RÉSERVER_UN_APPEL-101010?style=for-the-badge&logo=googlecalendar&logoColor=white&logoSize=large" alt="Cal.com Contact" />
-  </a>
+  <br>
+  <a href="https://cal.com/devzelkiobb">
+    <img src="https://img.shields.io/badge/RESERVER_UN_APPEL-101010?style=for-the-badge&logo=googlecalendar&logoColor=white&logoSize=large" alt="Cal.com Contact" />
+  </a>
 </div>
 
 <p align="center">
-  <i>🟢 Actuellement disponible pour de nouvelles commandes exclusives.</i><br>
-  <b>© 2026 - Zelkiobb | L'artisanat digital haut de gamme.</b>
+  Actuellement disponible pour de nouvelles commandes exclusives.<br>
+  <b>© 2026 - Zelkiobb | L'artisanat digital haut de gamme.</b>
 </p>
