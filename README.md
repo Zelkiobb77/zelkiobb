@@ -10,12 +10,19 @@
 
 <br>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Projets_réalisés-30%2B-FF9900?style=for-the-badge&logo=rocket&logoColor=white" alt="30+ Projets" />
+  <img src="https://img.shields.io/badge/Disponibilité-Ouvert_aux_projets-00C853?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Disponible" />
+</div>
+
+<br>
+
 > *« Le code est un art. Je ne me contente pas de le taper, je le sculpte pour qu'il réponde exactement à vos ambitions. »*
 
 ---
 
 ## 🌌 Mon Univers : Le Code Sans Frontière
-Je suis un développeur passionné, animé par le défi technique. **Je n'ai aucune restriction de langage.** Vous avez une idée complexe ? Je connais la technologie parfaite pour la réaliser. Je code avec le sourire, mais avec une rigueur militaire.
+Développeur intensif et passionné, j'ai conçu et livré **plus de 30 projets sur-mesure en un temps record**. Je n'ai aucune restriction de langage : vous avez une idée complexe, je connais la technologie parfaite pour la réaliser. Je code avec le sourire, mais avec une rigueur militaire.
 
 ### 🧠 Polyvalence Absolue (Stack Technologique)
 *Un aperçu de mon arsenal technique. Si ça se code, je sais le faire.*
@@ -56,16 +63,16 @@ Je suis un développeur passionné, animé par le défi technique. **Je n'ai auc
 
 ## 💼 L'Excellence a un Prix (Mes Services)
 
-Je ne fais **AUCUN** bénévolat, aucune "petite modification gratuite", et je ne recycle pas de code. Si vous me contactez, c'est pour du **100% sur-mesure**, payant, et professionnel.
+Je m'associe exclusivement à des clients sérieux pour des créations **100% sur-mesure**. Je ne recycle pas de code et je me concentre sur la qualité haut de gamme. Si vous cherchez un partenaire fiable pour un projet ambitieux, vous êtes au bon endroit.
 
 🔥 **Ce que je crée pour vous :**
 * **🛒 Boutiques E-Commerce :** Systèmes de vente complets, paiements sécurisés, gestion de stocks.
-* **🤖 Bots Discord & Automatisation :** De la simple modération à l'économie interconnectée avec des bases de données externes.
+* **🤖 Bots Discord & Automatisation :** De la simple modération à l'économie interconnectée avec bases de données externes.
 * **💻 Logiciels & Scripts :** Scrapers, outils internes, interfaces de gestion.
 * **📱 Applications & Web :** Interfaces fluides et architectures complexes.
 
 ### 💰 La Règle d'Or : Le budget définit la profondeur.
-> *Un client qui investit 30€ dans un Bot Discord obtiendra un script propre, fonctionnel, mais basique. Un client qui investit 1000€ obtiendra une véritable intelligence artificielle, reliée à un Dashboard Web interactif, avec base de données cryptée et hébergement optimisé. **Vous choisissez la limite.** *
+> *Un projet avec un budget de départ obtiendra un script propre, fonctionnel et efficace. Un projet avec un budget important débloquera des architectures complexes, reliées à un Dashboard Web interactif, avec bases de données sécurisées et hébergement optimisé. **C'est vous qui fixez la limite de vos ambitions.***
 
 ---
 
@@ -82,14 +89,14 @@ Je ne fais **AUCUN** bénévolat, aucune "petite modification gratuite", et je n
 
 ---
 
-## 📞 Lancer une Commande
+## 📞 Discutons de votre projet
 
-Vous avez un budget et une vision ? Je suis l'architecte qu'il vous faut. Pas de temps à perdre, rejoignez mon espace professionnel et ouvrez un ticket. 
+Vous avez une vision, j'ai les compétences pour la réaliser. Pas de temps à perdre dans de longs échanges d'e-mails : réservez directement un créneau avec moi pour que nous parlions de votre projet de vive voix.
 
 <div align="center">
   <br>
-  <a href="METS_LE_LIEN_DE_TON_DISCORD_ICI">
-    <img src="https://img.shields.io/badge/OUVRIR_UN_TICKET_SUR_DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white&logoSize=large" alt="Discord Contact" />
+  <a href="METS_LE_LIEN_DE_TON_CAL_ICI">
+    <img src="https://img.shields.io/badge/RÉSERVER_UN_APPEL_GRATUIT-101010?style=for-the-badge&logo=googlecalendar&logoColor=white&logoSize=large" alt="Cal.com Contact" />
   </a>
 </div>
 
