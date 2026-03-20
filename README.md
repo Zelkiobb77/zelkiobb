@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Architecte+Systèmes+Complexes;Expert+en+Performance+&amp;+Scalabilité;Créateur+de+Solutions+Digitales+à+Haut+Impact;La+qualité+is+un+investissement,+pas+une+dépense." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Architecte+Systèmes+Complexes;Expert+en+Performance+&amp;+Scalabilité;Créateur+de+Solutions+Digitales+à+Haut+Impact;La+qualité+est+un+investissement,+pas+une+dépense." alt="Typing SVG" />
   </a>
 </div>
 
@@ -80,7 +80,7 @@ Fort de mon expérience dans la création de systèmes complexes et de la finali
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
-<br><br>**[ 🗄️ BASES DE DONNÉES, DEPOYMENT & INFRASTRUCTURE ]**<br>
+<br><br>**[ 🗄️ BASES DE DONNÉES, DEPLOYMENT & INFRASTRUCTURE ]**<br>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -106,7 +106,7 @@ Vous avez une vision à haut potentiel et cherchez l'expertise technique pour la
 
 <div align="center">
   <br>
-  <a href="METS_LE_LIEN_DE_TON_CAL_ICI">
+  <a href="https://cal.com/devzelkiobb">
     <img src="https://img.shields.io/badge/RÉSERVER_UNE_CONSULTATION_STRATÉGIQUE-101010?style=for-the-badge&logo=googlecalendar&logoColor=white&logoSize=large" alt="Cal.com Contact" />
   </a>
 </div>
