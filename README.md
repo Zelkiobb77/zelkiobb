@@ -80,12 +80,12 @@ Je ne fais aucun bénévolat, aucune modification gratuite, et je ne recycle pas
 
 ## CONTACTER POUR UNE COMMANDE
 
-Vous avez un budget et une vision ? Je suis l'architecte qu'il vous faut. Pas de temps à perdre, réservez directement votre créneau.
+Vous avez un budget et une vision ? Je suis l'architecte qu'il vous faut. Pas de temps à perdre, contactez-moi directement sur mon réseau.
 
 <div align="center">
   <br>
-  <a href="https://cal.com/devzelkiobb">
-    <img src="https://img.shields.io/badge/RESERVER_UN_APPEL-101010?style=for-the-badge&logo=googlecalendar&logoColor=white&logoSize=large" alt="Cal.com Contact" />
+  <a href="https://discord.gg/9hq9Z4B7">
+    <img src="https://img.shields.io/badge/REJOINDRE_LE_DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white&logoSize=large" alt="Discord Contact" />
   </a>
 </div>
 
