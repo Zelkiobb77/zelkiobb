@@ -1,95 +1,172 @@
+<!-- ⚡ HEADER ANIMÉ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Zelkiobb&fontSize=90&fontAlignY=35&desc=Ingénierie%20Logicielle%20Sur-Mesure&descAlignY=60&descAlign=60" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F0FF,50:FF2AD4,100:FFD400&height=280&section=header&text=ZELKIOBB&fontSize=90&fontColor=FFFFFF&animation=twinkling&desc=⚔️%20ARCHITECTE%20LOGICIEL%20—%20MODE%20HARDCORE%20⚔️&descAlignY=62&descSize=20" />
 </div>
 
+<!-- ⚡ TYPING -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Développeur+Full-Stack+Polyglotte;Expert+en+Création+100%25+Sur-Mesure;Solutions+Logiciels+et+Architectures+Complexes;La+qualité+est+un+investissement,+pas+une+dépense." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&pause=1200&color=00F0FF&center=true&vCenter=true&width=900&height=60&lines=PLAYER+1+READY...;Vous+cherchez+un+simple+codeur+%3F+GAME+OVER.;Vous+voulez+une+architecture+infaillible+%3F+PRESS+START.;6+Projets+Majeurs+D%C3%A9ploy%C3%A9s+(Sous+NDA);Je+ne+tape+pas+du+code%2C+je+farm+des+K.O." alt="Typing SVG" />
   </a>
 </div>
 
 <br>
 
-> *« Le code est un art. Je ne me contente pas de le taper, je le sculpte pour qu'il réponde exactement à vos ambitions. »*
-
----
-
-## MON UNIVERS : LE CODE SANS FRONTIÈRE
-Développeur passionné par le défi technique, je n'ai aucune restriction de langage. Vous avez une idée complexe ? Je connais la technologie adaptée pour la réaliser. Je travaille avec une rigueur absolue.
-
-### POLYVALENCE TECHNIQUE (STACK)
-*Aperçu de l'arsenal technologique utilisé pour vos projets.*
-
+<!-- ⚔️ ARENA DE COMBAT (SVG animé custom — fichier assets/fight.svg du repo) -->
 <div align="center">
-
-**[ LOGICIEL & BACK-END ]**<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" />
-<img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
-
-<br><br>**[ WEB & FRONT-END ]**<br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-
-<br><br>**[ BASES DE DONNÉES & HÉBERGEMENT ]**<br>
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-
+  <img src="./assets/fight.svg" width="100%" alt="Zelkiobb Arena - Code Fighter" />
 </div>
 
----
-
-## L'EXCELLENCE A UN PRIX
-
-Je ne fais aucun bénévolat, aucune modification gratuite, et je ne recycle pas de code. Si vous me contactez, c'est pour un service professionnel.
-
-**Je peux absolument tout concevoir : ma seule limite est votre budget.**
-
-### LA RÈGLE D'OR : LE BUDGET DÉFINIT LA PROFONDEUR
-> *Un client qui investit 30€ obtiendra un système propre et fonctionnel. Un client qui investit 1 000€ ou 30 000€ obtiendra une architecture massive, sécurisée et optimisée pour l'industrie. Vous choisissez la limite.*
-
----
-
-## ACTIVITÉ EN TEMPS RÉEL
-
+<!-- 🎮 STATUS HUD -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zelkiobb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zelkiobb&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
+  <img src="https://img.shields.io/badge/SYSTEM_BOOT-SUCCESS-00F0FF?style=for-the-badge&logo=powershell&logoColor=black" />
+  <img src="https://img.shields.io/badge/CLEARANCE-NDA_ACTIVE-FF2AD4?style=for-the-badge&logo=protonvpn&logoColor=black" />
+  <img src="https://img.shields.io/badge/STATUS-ACCEPTING_QUESTS-FFD400?style=for-the-badge&logo=target&logoColor=black" />
 </div>
+
 <br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 👁️ LORE — L'ÉLITE DU DÉVELOPPEMENT SUR-MESURE
+
+```text
+╔══════════════════════════════════════════════════════════╗
+║  CLASSE      : Architecte Logiciel (Niveau MAX)          ║
+║  GUILDE      : Indépendant — Clients Exigeants Only      ║
+║  INVENTAIRE  : 6 écosystèmes privés en production        ║
+║  PARTICULAR. : Aucun graphique de commits public.        ║
+║                Les vrais boss se battent en privé. 🥷     ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+> *« La qualité est un investissement, pas une dépense. Si vous me contactez, c'est que vous refusez l'à-peu-près. »*
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🧬 SKILL TREE DÉBLOQUÉ
+*Aucune restriction de langage. Vous fournissez la vision, je sélectionne l'arme.*
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zelkiobb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" />
+
+**🗡️ [ BACK-END & SYSTÈMES — ATK +999 ]**<br>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,java,cpp,cs,php,nodejs,ruby,go,rust&theme=dark" /></a>
+
+<br>
+
+**🛡️ [ FRONT-END & INTERFACES — CHARISME +999 ]**<br>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,html,css,react,vue,nextjs,tailwind&theme=dark" /></a>
+
+<br>
+
+**🧪 [ INFRA & BASES DE DONNÉES — DEF +999 ]**<br>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,supabase,docker,aws,linux,nginx&theme=dark" /></a>
+
+<br>
+
+**🤖 [ IA & AUTOMATISATION — MANA ∞ ]**<br>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=discord,bots,git,vercel,figma&theme=dark" /></a>
+
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## CONTACTER POUR UNE COMMANDE
+## 🎮 SÉLECTIONNEZ VOTRE QUÊTE
 
-Vous avez un budget et une vision ? Je suis l'architecte qu'il vous faut. Pas de temps à perdre, réservez directement votre créneau.
+<table align="center" width="100%">
+<tr>
+<td width="50%" align="center">
+
+### 🌐 QUÊTE LÉGENDAIRE
+**Web & E-Commerce Haut de Gamme**
+
+Sites vitrines et plateformes de vente aux finitions parfaites. Design luxueux + techno de pointe = conversion maximale.
+
+`DIFFICULTÉ : ★★★★☆` `LOOT : 💰💰💰`
+
+</td>
+<td width="50%" align="center">
+
+### 🤖 QUÊTE MYTHIQUE
+**IA & Systèmes Autonomes**
+
+Bots sur-mesure (Discord, Web), agents intelligents, automatisation totale. Votre business passe en vitesse lumière.
+
+`DIFFICULTÉ : ★★★★★` `LOOT : 💎💎💎`
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+### 🕹️ QUÊTE ÉPIQUE
+**Infrastructures & Serveurs de Jeux**
+
+Configuration, optimisation extrême, scripts exclusifs. Stabilité absolue pour dominer votre secteur.
+
+`DIFFICULTÉ : ★★★★☆` `LOOT : ⚔️⚔️⚔️`
+
+</td>
+<td width="50%" align="center">
+
+### 🧟 QUÊTE DE RÉSURRECTION
+**Sauvetage de Projets Morts**
+
+Code bancal d'un autre dev ? Je le ressuscite, je le nettoie, je le rends plus puissant qu'avant. NECROMANCIE DU CODE.
+
+`DIFFICULTÉ : ☠️☠️☠️☠️☠️` `LOOT : 🔥🔥🔥`
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## ⚖️ LA BOUTIQUE — LE PRIX DE L'EXCELLENCE
+
+Aucun bénévolat, aucune modif gratuite. **Ma seule limite est votre budget.**
+
+<div align="center">
+
+| 💰 INVESTISSEMENT | 🎁 LOOT OBTENU | ⚡ NIVEAU |
+|:---:|:---|:---:|
+| `30 €` | Système propre & fonctionnel | 🟢 STARTER PACK |
+| `1 000 €` | Architecture solide, sécurisée, scalable | 🔵 RARE DROP |
+| `30 000 €` | Écosystème massif niveau industrie | 🟣 LÉGENDAIRE |
+
+**Vous choisissez la limite. Je l'exécute.**
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🐍 LE SERPENT QUI DÉVORE MES CONTRIBUTIONS
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ZELKIOBB/ZELKIOBB/output/github-contribution-grid-snake-dark.svg" alt="snake" width="100%"/>
+</div>
+
+<!-- ⚠️ Pour activer le serpent : crée le fichier .github/workflows/snake.yml (fourni avec ce README) -->
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 📅 INSERT COIN — PASSER À L'ACTION
+
+Étude de projet et devis **100% gratuits, sans engagement**.
 
 <div align="center">
   <br>
   <a href="https://cal.com/devzelkiobb">
-    <img src="https://img.shields.io/badge/RESERVER_UN_APPEL-101010?style=for-the-badge&logo=googlecalendar&logoColor=white&logoSize=large" alt="Cal.com Contact" />
+    <img src="https://img.shields.io/badge/▶_PRESS_START_—_ÉTUDE_GRATUITE-00F0FF?style=for-the-badge&logo=googlecalendar&logoColor=black&labelColor=000000" height="45" alt="Cal.com Contact" />
   </a>
+  <br><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&pause=2000&color=FFD400&center=true&vCenter=true&width=600&lines=CONTINUE+%3F+...+9...8...7...;VOTRE+CONCURRENT+VIENT+DE+RESERVER.+%C3%80+VOUS." alt="countdown" />
 </div>
 
-<p align="center">
-  Actuellement disponible pour de nouvelles commandes exclusives.<br>
-  <b>© 2026 - Zelkiobb | L'artisanat digital haut de gamme.</b>
-</p>
+<br>
+
+<!-- FOOTER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD400,50:FF2AD4,100:00F0FF&height=140&section=footer&text=GAME%20OVER%20%3F%20JAMAIS.&fontSize=28&fontColor=FFFFFF&animation=fadeIn" />
+  <b>© 2026 — Zelkiobb | L'artisanat digital sans compromis. 🔒</b>
+</div>
